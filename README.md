@@ -1,6 +1,6 @@
-# safe map
+# syncmap
 
-a generic map, type parameter requires go 1.18
+A generic thread safe map. Type parameter requires go 1.18
 
 ## usage
 ```
